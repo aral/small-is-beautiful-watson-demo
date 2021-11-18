@@ -1,3 +1,3 @@
 src/Application.vala
-data/{GITHUB.APP}.desktop.in
-data/{GITHUB.APP}.appdata.xml.in
+data/small_is_beautiful_watson_demo.desktop.in
+data/small_is_beautiful_watson_demo.appdata.xml.in
